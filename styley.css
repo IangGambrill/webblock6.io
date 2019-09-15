@@ -1,0 +1,239 @@
+.top{
+    display: grid;
+    grid-template-columns: 200px 550px 500px;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    margin-top:  0px;
+    grid-gap: 55px; 
+    background-color:red;
+}
+.gmail{
+    display: grid;
+    height: 30px;
+    width: 100px;
+    margin-top:  10px;
+    margin-left: 0px; 
+    background-color:yellow;
+}
+.serch{
+    display: grid;
+    height: 30px;
+    width: 500px;
+    margin-top:  10px;
+    margin-left: 0px; 
+    background-color:yellow;
+}
+.login{
+    display: grid;
+    height: 30px;
+    width: 150px;
+    margin-top:  10px;
+    margin-left: 0px; 
+    background-color:yellow;
+}
+.sacrifice{
+    display: grid;
+    grid-template-columns: 200px 550px 500px;
+    height: 50px;
+    width: 150px;
+    margin-top:  0px;
+    grid-gap: 55px; 
+    background-color:red;
+}
+.compose{
+    display: grid;
+    grid-template-columns: 200px 550px 500px;
+    height: 50px;
+    width: 150px;
+    margin-top:  100px;
+    margin-left: 400;
+    background-color:red;
+}
+.pic{
+    display: grid;
+    height: 30px;
+    width: 30px;
+    margin-top:  10px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.text{
+    display: grid;
+    height: 30px;
+    width: 75px;
+    margin-top:  10px;
+    margin-left: -190px; 
+    background-color:yellow;
+}
+.maile{
+    display: grid;
+    grid-template: 40px 40px 40px 40px;
+    background-color: red;
+    margin-left: 0px;
+    margin-top: 10px;
+    height: 150px;
+    width: 270px;
+    grid-gap: 1px;
+}
+.option{
+    display: grid;
+    height: 20px;
+    width: 100px;
+    margin-top:  10px;
+    margin-left: 10px; 
+    background-color:yellow;
+}
+.widgets{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 400px;
+    height: 50px;
+    width: 210px;
+    grid-gap: 1px
+}
+.icon{
+    display: grid;
+    height: 30px;
+    width: 30px;
+    margin-top:  10px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.refresh{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    background-color: red;
+    margin-left: 310px;
+    margin-top: -695px;
+    height: 50px;
+    width: 210px;
+    grid-gap: 1px
+}
+.emblem{
+    display: grid;
+    height: 30px;
+    width: 30px;
+    margin-top:  10px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.primary{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    background-color: red;
+    margin-left: 310px;
+    margin-top: 10px;
+    height: 80px;
+    width: 280px;
+    grid-gap: 1px
+}
+.txt{
+    display: grid;
+    height: 30px;
+    width: 200px;
+    margin-top:  25px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.social{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    background-color: red;
+    margin-left: 610px;
+    margin-top: -80px;
+    height: 80px;
+    width: 280px;
+    grid-gap: 1px 
+}
+.txt2{
+    display: grid;
+    height: 30px;
+    width: 200px;
+    margin-top:  25px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.promotions{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    background-color: red;
+    margin-left: 910px;
+    margin-top: -80px;
+    height: 80px;
+    width: 280px;
+    grid-gap: 1px 
+}
+.txt3{
+    display: grid;
+    height: 30px;
+    width: 200px;
+    margin-top:  25px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.emails{
+    display: grid;
+    grid-template-rows: 40px 40px 40px 40px 40px 40px 40px 40px 40px;
+    background-color: red;
+    margin-left: 310px;
+    margin-top: 5px;
+    height: 550px;
+    width: 1180px;
+    grid-gap: 20px 
+}
+.mesage{
+    display: grid;
+    height: 30px;
+    width: 1000px;
+    margin-top:  25px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.leftbar{
+    display: grid;
+    grid-template-rows: 80px 80px 300px 150px 40px ;
+    background-color: red;
+    margin-left: 1610px;
+    margin-top: -795px;
+    height: 800px;
+    width: 80px;
+    grid-gap: 20px 
+}
+.ike{
+    display: grid;
+    height: 30px;
+    width: 30px;
+    margin-top:  25px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.page{
+    display: grid;
+    grid-template-columns: 20px 20px 20px 20px;
+    background-color: red;
+    margin-left: 1310px;
+    margin-top: -755px;
+    height: 40px;
+    width: 200px;
+    grid-gap: 20px 
+}
+}
+.numer{
+    display: grid;
+    height: 30px;
+    width: 30px;
+    margin-top:  5px;
+    margin-left: 20px; 
+    background-color:yellow;
+}
+.ike2{
+    display: grid;
+    height: 30px;
+    width: 30px;
+    margin-top:  5px;
+    margin-left: 40px; 
+    background-color:yellow;
+}
